@@ -6,3 +6,7 @@
 - Allow the use, to enter his own informations to predict him thanx to a form
   the form would have standardize the user's informations
 - Try on other drugs 
+
+## Conclusion :
+- A wide dataset, that allowed us to improve our anlyse skills
+- A feel of regret due to the lack of time in this semester's end
